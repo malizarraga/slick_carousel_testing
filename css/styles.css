@@ -19,12 +19,7 @@ body {
      object-fit: cover;
 }
 
-.map-container {
-  display: block;
-}
-
-.map-container .map-object {
-  width: 100%;
-  height: 50vh;
+.slick-container .slick-arrow {
+  font-size: large;
 }
 /*# sourceMappingURL=styles.css.map */
